@@ -18,7 +18,7 @@
 ## 🛠 Technologies Used
 
 * **Backend Framework:** FastAPI
-* **Database:** PostgreSQL (Neon / Cloud DB)
+* **Database:** PostgreSQL (Neon )
 * **ORM:** SQLAlchemy
 * **Authentication:** JWT (python-jose)
 * **Password Hashing:** Passlib (bcrypt)
@@ -180,7 +180,7 @@ http://127.0.0.1:8000/docs
 
 * **Platform:** Render
 * **Live API:** [FastAPI JWT Blog API](https://fastapi-jwt-blog-api.onrender.com?utm_source=chatgpt.com)
-* **Database:** PostgreSQL (Cloud / Neon)
+* **Database:** PostgreSQL ( Neon)
 * **Environment Variables:** Managed via Render dashboard
 
 ---
